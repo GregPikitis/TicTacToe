@@ -11,3 +11,9 @@ In this version, statistics are kept based on which player wins, and the data is
 
 ### Dependancies
 - Colorama
+- Python 3
+
+### Screenshots
+- Gameplay
+
+- Stats
