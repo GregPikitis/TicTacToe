@@ -15,6 +15,9 @@ In this version, statistics are kept based on which player wins, and the data is
 
 ### Screenshots
 - Gameplay
+
 ![Gameplay](https://github.com/GregPikitis/TicTacToe/blob/master/gameplay.png "Gameplay")
+
 - Stats/End Game
+
 ![Stat Screen](https://github.com/GregPikitis/TicTacToe/blob/master/stats.png "End Game")
